@@ -1,0 +1,5 @@
+{
+  "name": "SentinelSOC - Analyst Investigation Platform",
+  "description": "A comprehensive SOC Tier-1 analyst platform for alert monitoring, phishing investigation, and incident management.",
+  "requestFramePermissions": []
+}
